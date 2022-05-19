@@ -1,4 +1,4 @@
-# example_kb_sdk_app
+# kb_dakota_test_app
 
 This repo demonstrates some best practices for writing KBase Apps, as well as providing a simple app that demonstrates
 uploading data into kbase, using kbase utilities, using an external script, and using biopython to do simple calculations within the app.
@@ -54,7 +54,7 @@ You will need to have the SDK installed to use this module.
 [Learn more about the SDK and how to use it](https://kbase.github.io/kb_sdk_docs/).
 
 You can also learn more about the apps implemented in this module from its
-[catalog page](https://narrative.kbase.us/#catalog/modules/example_kb_sdk_app)
+[catalog page](https://narrative.kbase.us/#catalog/modules/kb_dakota_test_app)
 or its [spec file]($module_name.spec).
 
 # Setup and test
@@ -72,7 +72,7 @@ verify that everything still works.
 # Installation from another module
 
 To use this code in another SDK module, call
-`kb-sdk install example_kb_sdk_app`
+`kb-sdk install kb_dakota_test_app`
 in the other module's root directory.
 
 # Help

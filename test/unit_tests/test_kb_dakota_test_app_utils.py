@@ -3,7 +3,7 @@ import subprocess
 
 import pytest
 
-from example_kb_sdk_app.utils import ExampleReadsApp
+from kb_dakota_test_app.utils import ExampleReadsApp
 
 @pytest.fixture
 def process():
